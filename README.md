@@ -1,11 +1,14 @@
 # Complexity Analysis
 
-To be updated
+Profiler for evaluating an algorithms' complexity by running it with a predefined set of input values.
 
-Profiler for evaluating an algorithms' complexity by running it with a predefined set of input values
-Copyright (C) 2015 dani.user@gmail.com
+Copyright (C) 2015
 
 Using icons from http://www.fatcow.com/free-icons
+
+![Screenshot](doc/prime_counter-instructions.png)
+
+![Screenshot](doc/prime_counter-user_time.png)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
